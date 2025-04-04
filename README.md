@@ -7,6 +7,9 @@ This repository contains the project files for my data analysis work.
 ***For a full project description, visit my Notion portfolio:***
 [My Portfolio](https://notion.so/your-link-here)
 
-
-
 # Projects
+
+
+**Contact** 
+
+LinkedIn: https://linkedin.com/in/your-profile 
