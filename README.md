@@ -12,4 +12,5 @@ This repository contains the project files for my data analysis work.
 
 **Contact** 
 
-LinkedIn: https://linkedin.com/in/your-profile 
+LinkedIn: https://linkedin.com/in/your-profile
+olivia.grauso@outlook.it
