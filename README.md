@@ -1,5 +1,5 @@
 ### Power BI Portfolio - Olivia Grauso
-#### This repository contains the project files for my data analysis work.
+#### This repository contains my Power BI projects.
 ---
 ## Be Data-Driven
 
