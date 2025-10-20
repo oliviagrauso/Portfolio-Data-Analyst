@@ -1,19 +1,25 @@
-# Data Analyst Portfolio - Olivia Grauso
+### Power BI Portfolio - Olivia Grauso
+#### This repository contains the project files for my data analysis work.
+---
+## Be Data-Driven
 
-This repository contains the project files for my data analysis work.
+These days, everyone talks about being *data-driven*. It means using data to answer real business questions.
+Instead of guessing, we look at numbers and trends to understand things like:
 
-The projects descriptions can be available inside each file or in my Notion portfolio:
-[My Portfolio](https://www.notion.so/Olivia-Grauso-Data-Analyst-Portfolio-1cb05a61c5e2809d9650e0b84aa390fe?pvs=4)
+- Which region is selling the most?
+- What type of customer buys from us most often?
+- Which marketing campaigns are bringing in the most new customers?
+- Is there a version of our product that is not performing as expected?
+- Are we delivering orders on time across all regions?
 
-# Projects
-1. Annual Sales Dashboard by Segment 2011 - 2014 (EXCEL) + PDF Version
-2. Growth over the Years – Adventure Works (POWER BI) + PDF Version
-3. Quarterly Report – Adventure Works (POWER BI) + PDF Version
-4. My Jupyter Notebook with my current learning journey in the Microsoft Python Development course on Coursera 
-   
+These answers come from data the business already produces, data that often isn’t explored strategically.
 
 
-# Contact
+As the funny quote says: **"In God we trust. All others must bring data."** 
+
+This portfolio shows how I use Power BI to turn raw data into clear dashboards and visual reports that help businesses make smarter decisions.
+
+### Contact
 
 LinkedIn: [Olivia Grauso](https://www.linkedin.com/in/oliviagrauso/)
 
