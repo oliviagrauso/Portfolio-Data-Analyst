@@ -42,7 +42,7 @@ To demonstrate how an exploratory analysis can raise relevant hypotheses and que
 
 These are some of the questions to be discussed with the business team, ideally alongside cost data, to drive process optimization and save costs.
 
-### [View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/c5c4b29c-7c09-445a-a673-c2c6dedc5fe4?ctid=a3f04e3d-165c-46bd-a368-f4e2548e1b2d&pbi_source=linkShare)
+[![Import Dashboard](import_dashboard.png)](https://app.powerbi.com/groups/me/reports/c5c4b29c-7c09-445a-a673-c2c6dedc5fe4?ctid=a3f04e3d-165c-46bd-a368-f4e2548e1b2d&pbi_source=linkShare)
 
 
 
