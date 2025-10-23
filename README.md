@@ -37,8 +37,8 @@ To demonstrate how an exploratory analysis can raise relevant hypotheses and que
 
 **Insights from the report**  
 - Maritime shipping usually costs less than air freight. Why do more than 80% of our imports use the air freight?  
-- If it is a supplier issue, can we verify that we’re not being charged unnecessarily for this?  
-- If it is an internal issue due to short lead times, what’s causing it?
+- If it is a supplier issue, can we verify that we are not being charged unnecessarily for this?  
+- If it is an internal issue due to short lead times, what is causing it?
 
 These are some of the questions to be discussed with the business team, ideally alongside cost data, to drive process optimization and save costs.
 
